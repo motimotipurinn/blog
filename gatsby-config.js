@@ -12,7 +12,7 @@ module.exports = {
     title: `もちもちのBlog`,
     author: {
       name: `もちもち`,
-      summary: `灘高等学校の3年です。SECCON BEGINNERS`,
+      summary: `灘高等学校の3年です。SECCON BEGINNERS運営`,
     },
     description: `パソコンについて話します`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
